@@ -1,0 +1,25 @@
+_repo: Bred-in-the-Bone--Or-Like-Father-Like-Son--13-A-Novel_12024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payn, James
+    birthdate: 1830
+    deathdate: 1898
+    gutenberg_agent_id: '4707'
+    url: http://www.gutenberg.org/2009/agents/4707
+    wikipedia: http://en.wikipedia.org/wiki/James_Payn
+description: ''
+gutenberg_issued: '2004-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- GITenberg
+title: 'Bred in the Bone; Or, Like Father, Like Son: A Novel'
+url: http://www.gutenberg.org/ebooks/12024
